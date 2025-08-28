@@ -4,10 +4,10 @@ This is a simple automation project using Selenium with Python. The project perf
 
 <i>🛠️ Technologies Used</i>
 <li>
-Python
-Selenium
-ChromeDriver
-CSV (for data input/output)
+Python</li>
+<li>Selenium</li>
+<li>ChromeDriver</li>
+<li>CSV (for data input/output)
 </li>
 
 <i>▶️ How to Run</i>
@@ -24,7 +24,7 @@ python Project.py
 
 ✅ Features
 <li>
-Automates browser actions using Selenium
-Reads/writes data using CSV files
-Basic structure for scalable automation tasks
+Automates browser actions using Selenium</li>
+<li>Reads/writes data using CSV files</li>
+<li>Basic structure for scalable automation tasks
 </li>
